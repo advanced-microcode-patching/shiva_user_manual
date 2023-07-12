@@ -1,2 +1,3 @@
-# shiva_user_manual
-Friendly user manual to ELF microcode patching with Shiva
+# User manual for Shiva
+
+A friendly guide to micropatching with Shiva. First draft.
